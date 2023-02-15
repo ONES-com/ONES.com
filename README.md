@@ -1,5 +1,3 @@
-# ONES.com
-
 # Welcome to ONES.com! 🎉
 <p> </p>
 <p>ONES provides an all-in-one solution for software development teams to plan and track, manage tests and collaborate. 👏</p>
